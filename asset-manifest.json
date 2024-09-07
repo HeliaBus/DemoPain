@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demopain/static/css/main.2464d1a5.css",
+    "main.js": "/demopain/static/js/main.eebb3d9d.js",
+    "static/js/453.95a64ea2.chunk.js": "/demopain/static/js/453.95a64ea2.chunk.js",
+    "static/media/Pres1.jpeg": "/demopain/static/media/Pres1.7da184a80a49a14b22a7.jpeg",
+    "index.html": "/demopain/index.html",
+    "main.2464d1a5.css.map": "/demopain/static/css/main.2464d1a5.css.map",
+    "main.eebb3d9d.js.map": "/demopain/static/js/main.eebb3d9d.js.map",
+    "453.95a64ea2.chunk.js.map": "/demopain/static/js/453.95a64ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2464d1a5.css",
+    "static/js/main.eebb3d9d.js"
+  ]
+}
